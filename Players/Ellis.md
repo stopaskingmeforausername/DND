@@ -1,3 +1,11 @@
-has been: [[Spyre]]
+Name:
+Class: factotum
+Race: Human
 
-https://www.google.com/search?client=firefox-b-1-d&q=Alignment+
+backstory: 
+Abusive theatre dad died when he was 14, he wanted to become a mercenary
+
+
+replacing trap finding with Lore(ex)/Bardic knowledge
+part 3 joseph
+bucarati
