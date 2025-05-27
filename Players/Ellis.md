@@ -1,3 +1,7 @@
+---
+sticker: emoji//1f6e0-fe0f
+color: var(--mk-color-gray)
+---
 Name:
 Class: factotum
 Race: Human
