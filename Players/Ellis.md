@@ -1,10 +1,11 @@
 ---
 sticker: emoji//1f6e0-fe0f
 color: var(--mk-color-gray)
+Name: 
+Race: Factotum
+Class: Human
+Level: 4
 ---
-Name:
-Class: factotum
-Race: Human
 
 backstory: 
 Abusive theatre dad died when he was 14, he wanted to become a mercenary
