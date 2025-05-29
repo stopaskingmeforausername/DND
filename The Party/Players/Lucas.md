@@ -2,6 +2,12 @@
 color: var(--mk-color-gray)
 
 ---
-| Name | Race   | Class | Level |
-| ---- | ------ | ----- | ----- |
-|      | Binder |       | 4     |
+| Name | Race | Class | Level |
+| ---- | ---- | ----- | ----- |
+|      |      |       | 4     |
+___
+#### Currency
+| CP  | SP  | EP  | GP  | PP  |
+| --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   | 0   |
+#### Equipment
