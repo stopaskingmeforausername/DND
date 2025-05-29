@@ -3,15 +3,23 @@ color: var(--mk-color-gray)
 sticker: emoji//26d3-fe0f
 
 ---
-| Name | Race | Class | Level |
-| ---- | ---- | ----- | ----- |
-|      | Illuminia     | Binder      | 4     |
+| Name | Race      | Class  | Level |
+| ---- | --------- | ------ | ----- |
+|      | Illuminia | Binder | 4     |
 ___
 #### Currency
 | CP  | SP  | EP  | GP  | PP  |
 | --- | --- | --- | --- | --- |
 | 0   | 0   | 0   | 0   | 0   |
 #### Equipment
+Chain shirt
+Ever burning torch
+Boots of springing and striding
+Scythe
+Silk Rope 100ft
+Everflowing mug
+Oil of slipperiness 2
+bog of endless caltrops
 
 ### Vestiges
 |Vestige|DC|
