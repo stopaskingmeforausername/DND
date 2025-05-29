@@ -10,7 +10,7 @@ ___
 #### Currency
 | CP  | SP  | EP  | GP  | PP  |
 | --- | --- | --- | --- | --- |
-| 0   | 0   | 0   | 0   | 0   |
+| 0   | 0   | 0   | 200 | 0   |
 #### Equipment
 Chain shirt
 Ever burning torch
