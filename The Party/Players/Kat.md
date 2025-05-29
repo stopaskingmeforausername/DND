@@ -2,9 +2,9 @@
 color: var(--mk-color-gray)
 
 ---
-| Name | Race | Class | Level |
-| ---- | ---- | ----- | ----- |
-|      | Faun | Bard  | 4     |
+| Name | Race | Class | Level | Minifig |
+| ---- | ---- | ----- | ----- | ------- |
+|      | Faun | Bard  | 4     | Alice   |
 ___
 #### Currency
 | CP  | SP  | EP  | GP  | PP  |

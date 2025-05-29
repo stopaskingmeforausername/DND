@@ -4,9 +4,9 @@ color: var(--mk-color-gray)
 
 ---
 
-| Name | Race  | Class    | Level |
-| ---- | ----- | -------- | ----- |
-|      | Human | Factotum | 4     |
+| Name | Race  | Class    | Level | Minifig    |
+| ---- | ----- | -------- | ----- | ---------- |
+|      | Human | Factotum | 4     | Robin hood |
 ___
 #### Currency
 | CP  | SP  | EP  | GP  | PP  |
