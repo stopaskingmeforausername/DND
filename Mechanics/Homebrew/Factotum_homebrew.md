@@ -1,0 +1,1 @@
+Replace **trap finding** with **Bardic knowledge**
