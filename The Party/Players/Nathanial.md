@@ -4,4 +4,4 @@ color: var(--mk-color-gray)
 ---
 | Name | Race               | Class | Level |
 | ---- | ------------------ | ----- | ----- |
-|      | Hengeyokai (Raven) | Bard  | 4     |
+| Skas | Hengeyokai (Raven) | Bard  | 4     |
