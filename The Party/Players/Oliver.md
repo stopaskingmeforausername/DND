@@ -22,21 +22,21 @@ Oil of slipperiness 2
 bog of endless caltrops
 
 ### Vestiges
-|Vestige|DC|
-|---|---|
-|Amon|20|
-|Aym|15|
-|Leraje|15|
-|Naberius|15|
-|Ronove|15|
-|Dahlver-Nar|17|
-|The Green Lady|17|
-|Haagenti|17|
-|Malphas|15|
-|Savnok|20|
-|Ahazu|20|
-|Andromalius|20|
-|Focalor|20|
-|Karsus|25|
-|Paimon|20|
-|Primus|24|
+| Vestige        | DC  |
+| -------------- | --- |
+| Amon #         | 20  |
+| Aym            | 15  |
+| Leraje         | 15  |
+| Naberius       | 15  |
+| Ronove         | 15  |
+| Dahlver-Nar    | 17  |
+| The Green Lady | 17  |
+| Haagenti       | 17  |
+| Malphas        | 15  |
+| Savnok #       | 20  |
+| Ahazu          | 20  |
+| Andromalius #  | 20  |
+| Focalor        | 20  |
+| Karsus         | 25  |
+| Paimon #       | 20  |
+| Primus         | 24  |
