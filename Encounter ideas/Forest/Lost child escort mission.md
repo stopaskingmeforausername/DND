@@ -1,0 +1,1 @@
+Child from Atlas rest migrants is lost in the woods has been injured and cannot walk.
