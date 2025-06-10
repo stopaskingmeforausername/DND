@@ -1,5 +1,5 @@
 ---
-sticker: ""
+sticker: emoji//1f9d9-200d-2642-fe0f
 color: var(--mk-color-gray)
 GP: 0
 Inventory: ""

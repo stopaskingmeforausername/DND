@@ -33,10 +33,10 @@ Currency: 200GP
 >**[[Kelvat]]**
 >The reason for Arthurs newest expedition was because of a close friend of his Kelvat informing him of the north’s borders opening. Kelvat is a business man who keeps tabs on parts of the world and tries to find new opportunities for profit, which is why he sent Arthur North. The two men are not actually friends at all but Arthur believes there is a deep bond between them.
 >
->**Lance**
+>**[[Lance]]**
 >Arthurs cousin who is also an Inspired, but has not been abandoned by his host, Lance is Arthurs only living family member and he lives in the vision fall islands, the last time the two of them met Lance insulted Arthurs choice to live among the people one he was abandoned and believes Arthur should not be alive anymore
 >
->**Eltara**
+>[[Eltara]]
 >A halfling Arthur knew when he first gained control of his life from the quori and was who taught Arthur how to be a archeologist, however 7 years ago on a trip to scale the sky island their ships were caught in a storm neither knowing the fate of the other
 
   
