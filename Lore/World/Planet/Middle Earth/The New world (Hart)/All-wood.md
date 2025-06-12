@@ -1,0 +1,1 @@
+A overreaching ever expanding magical forest that is never the same when going into it, often odd situations will occur inside, and trials must be passed to travel through, You never need to navigate inside of the forest, as long as you pass each trial, you will go to where you want to go
