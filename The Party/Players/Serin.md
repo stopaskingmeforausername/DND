@@ -24,3 +24,6 @@ ___
  • Likes fighting. Battles help expel some of his twitchy energy.
 
  • Hates being picked up, likes scritches. Impulsive and all over the place.
+
+
+# skeleton armor

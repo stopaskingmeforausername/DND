@@ -51,4 +51,32 @@
 
 
 
+> [!statblock] City Guard (CR 1)
+> **Size/Type:** Male Human Warrior
+> **Alignment:**  Lawfull Good
+> **Initiative:** *+1* **Senses:**  ***Listen*** *+1*, ***Spot*** *+1*
+>
+> **AC:** *15*    **Touch:** *10*    **Flat-Footed:** *15*
+> **HP:**  ***11*** (2d8)
+> **Fort:** *+1* , **Ref:** *+4* , **Will:** *+2*  
+>
+> **Speed:**  ***Walk:*** *6u* (30ft)
+> **Space/Reach:** ***1u/1u*** (5ft/5ft)
+> **Base Attack:** *+2*  **Grapple:**  *+4*
+> 
+> **Standard + move:**
+> **Melee:** ***Longsword*** --- Atk: +3 --- Dmg: *1d8+1*/19-20
+> **Ranged:** ***Short Bow*** --- Atk: +2 --- Dmg: *1d6 (x3)*
+>
+> **Abilities**: 
+> **Str:** (*+0*) 11 , **Dex:** (_+0_) 11 , **Con:** (_+0_) 11 , **Int:** (**+0**) 10, **Wis:** (*+0*) 10, **Cha:** (*+0*) 10
+> **Special Qualities:** Immunity too scent
+> **Feats:** [[Feats#Toughness]] Weapon Focus
+> **Skills:**  ***Handle Animal*** *+2*, ***Intimidate*** *+1, ***Listen*** +5, ***Profession (guard)*** *+1*, ***Sense Motive*** *+1, ***Spot*** *+1,
+> 
+> **Treasure:**  longsword, shortbow, 20 arrows, breastplate
+
+
+
+
 

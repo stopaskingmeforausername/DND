@@ -5,9 +5,9 @@ GP: 0
 Inventory: ""
 ---
 
-| Name | Race     | Class      | Level | Alignment |  minifig    |
-| ---- | -------- | ---------- | ----- | --------- |  ---------- |
-|      | Factotum | Sword Sage | 4     | ?         |  Robin hood |
+| Name                         | Race     | Class      | Level | Alignment | minifig    |
+| ---------------------------- | -------- | ---------- | ----- | --------- | ---------- |
+| John James Jinglehiemer smit | Factotum | Sword Sage | 4     | ?         | Robin hood |
 
 | Age |
 | --- |
@@ -42,4 +42,7 @@ GP: `INPUT[number:GP]`
 -  
 
 ### Quest Hooks  
--  
+
+
+
+4 treasures
