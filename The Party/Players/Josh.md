@@ -4,7 +4,7 @@ Currency: 0GP
 ---
 | Name             | Race               | Class      | Level | Amnt | Age |
 | ---------------- | ------------------ | ---------- | ----- | ---- | --- |
-| Hasbéstos Thakyi | Hell-Bred (Spirit) | Sword Sage | 4     | NG   | ?   |
+| Hasbéstos Thakyi | Hell-Bred (Spirit) | Sword Sage | 5     | NG   | ?   |
 ___
 
 >[!Inventory]
